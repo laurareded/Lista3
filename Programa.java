@@ -23,7 +23,8 @@ public class Programa {
         //Exercicio19.executar();
         //Exercicio20.executar();
         //Exercicio21.executar();
-        Exercicio22.executar();
+        //Exercicio22.executar();
+        Exercicio23.executar();
     }
 
 }
